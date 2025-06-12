@@ -12,9 +12,16 @@ Skilled in HTML, CSS, JavaScript, Python.
 ⚡ Fun Fact: I love building real-world projects that combine web and AI technologies.
 
   ##         Technologies That I Know
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+ ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=black)
