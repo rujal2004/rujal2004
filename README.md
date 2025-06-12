@@ -26,3 +26,6 @@ Skilled in HTML, CSS, JavaScript, Python.
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+
+##             Connect with me🤝
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rujal-gupta-83a433297/)
