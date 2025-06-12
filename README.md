@@ -25,3 +25,4 @@ Skilled in HTML, CSS, JavaScript, Python.
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
