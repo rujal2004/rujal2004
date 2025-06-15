@@ -31,3 +31,15 @@ Skilled in HTML, CSS, JavaScript, Python.
 
 ##             Connect with me🤝
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rujal-gupta-83a433297/)
+
+
+
+
+##                   Stats⚡
+
+   ![Rujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rujal2004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rujal2004&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rujal2004&theme=radical)](https://git.io/streak-stats)
+
+
+
