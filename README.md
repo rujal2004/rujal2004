@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Rujal Gupta!
-    [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rujalgupta656)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/rujalgupta632/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rujalgupta656)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rujalgupta632/)
+
 
 
 🔭 I’m currently working on Flask, Django, and Machine Learning projects.
