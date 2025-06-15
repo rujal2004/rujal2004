@@ -11,7 +11,7 @@ Skilled in HTML, CSS, JavaScript, Python.
 
 ⚡ Fun Fact: I love building real-world projects that combine web and AI technologies.
 
-  ##         Technologies That I Know
+  ##          Languages & Frameworks & Tools & Abilities 
  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -26,6 +26,8 @@ Skilled in HTML, CSS, JavaScript, Python.
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-5C2D91?logo=hackerrank&logoColor=white)  
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
+
 ##             Connect with me🤝
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rujal-gupta-83a433297/)
